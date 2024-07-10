@@ -2,4 +2,5 @@
     <string name="app_name">JetPackCompose0to100</string>
     <string name="title_activity_jetpack_compose_layouts">JetpackComposeLayouts</string>
     <string name="title_activity_jetpack_compose_modifiers">JetpackComposeModifiers</string>
+    <string name="title_activity_jetpack_compose_text">JetpackComposeText</string>
 </resources>
