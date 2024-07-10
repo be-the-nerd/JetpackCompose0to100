@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetPackCompose0to100</string>
+    <string name="title_activity_jetpack_compose_layouts">JetpackComposeLayouts</string>
 </resources>
