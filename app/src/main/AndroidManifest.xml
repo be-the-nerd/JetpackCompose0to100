@@ -13,6 +13,11 @@
         android:theme="@style/Theme.JetPackCompose0to100"
         tools:targetApi="31">
         <activity
+            android:name=".JetpackComposeCustomCard"
+            android:exported="true"
+            android:label="@string/title_activity_jetpack_compose_custom_card"
+            android:theme="@style/Theme.JetPackCompose0to100" />
+        <activity
             android:name=".JetpackComposeText"
             android:exported="true"
             android:label="@string/title_activity_jetpack_compose_text"
