@@ -4,4 +4,5 @@
     <string name="title_activity_jetpack_compose_modifiers">JetpackComposeModifiers</string>
     <string name="title_activity_jetpack_compose_text">JetpackComposeText</string>
     <string name="title_activity_jetpack_compose_custom_card">JetpackComposeCustomCard</string>
+    <string name="title_activity_jetpack_compose_button">JetpackComposeButton</string>
 </resources>
