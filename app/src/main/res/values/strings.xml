@@ -5,4 +5,6 @@
     <string name="title_activity_jetpack_compose_text">JetpackComposeText</string>
     <string name="title_activity_jetpack_compose_custom_card">JetpackComposeCustomCard</string>
     <string name="title_activity_jetpack_compose_button">JetpackComposeButton</string>
+    <string name="title_activity_jetpack_compose_preview">JetpackComposePreview</string>
+    <string name="locale_string">This is locale test string.</string>
 </resources>
