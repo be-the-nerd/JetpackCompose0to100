@@ -64,7 +64,7 @@ fun buttonWithIcon() {
                 disabledContentColor = Color.White,
                 disabledContainerColor = Color.LightGray
             ),
-            onClick = { showToast(context, "Elevated button clicked.") }
+            onClick = { context.showToast("Elevated button clicked.") }
         ) {
             Icon(
                 painter = painterResource(id = R.drawable.ic_launcher_foreground),
@@ -85,14 +85,14 @@ fun typesOfButton() {
         contentAlignment = Alignment.Center,
     ) {
         TextButton(
-            onClick = { showToast(context, "Text button clicked.") },
+            onClick = { context.showToast("Text button clicked.") },
         ) {
             Text(
                 text = "Text Button"
             )
         }
         IconButton(
-            onClick = { showToast(context, "Icon button clicked.") },
+            onClick = { context.showToast("Icon button clicked.") },
             modifier = Modifier.padding(top = 60.dp)
         ) {
             Icon(
